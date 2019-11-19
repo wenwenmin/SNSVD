@@ -1,2 +1,2 @@
 # SNSVD
-Network-regularized sparse learning
+Network-regularized sparse matrix factorization
