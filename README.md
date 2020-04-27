@@ -15,5 +15,5 @@ Please run the following R command in the Console.
 ```
 ### Results
 <p align="center"> 
-<img src="https://github.com/wenwenmin/SNSVD/blob/master/Result_fig.png">
+<img src="https://github.com/wenwenmin/SNSVD/blob/master/Figure.png">
 </p>
