@@ -14,6 +14,7 @@ Please run the following R command in the Console.
 > source('simulationTest.R') 
 ```
 ### Results
+The result is shown in the figure below：
 <p align="center"> 
-<img src="https://github.com/wenwenmin/SNSVD/blob/master/Figure.png">
+<img src="https://github.com/wenwenmin/SNSVD/blob/master/Figure2.png">
 </p>
