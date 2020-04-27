@@ -7,7 +7,7 @@ This package is used to solve SNSVD model.
 More descriptions about these functions can be found in their annotation part.
 
 ### R code
-Note that before running the codes, please first set the path for "Example.R".
+Note that before running the codes, please first set the path for "simulationTest.R".
 Please run the following R command in the Console. 
 
 ``` r
